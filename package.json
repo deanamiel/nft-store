@@ -1,0 +1,23 @@
+{
+  "name": "simple-nft-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "express": "^4.17.3",
+    "ganache-cli": "^6.12.2",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.7.1"
+  }
+}
